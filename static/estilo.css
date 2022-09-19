@@ -1,0 +1,23 @@
+.rectan {
+    display: flex;
+    width: 1348px; 
+    height: 70px; 
+    background: #000000;
+
+   }
+.hora{
+    
+    position:absolute;
+    left: 50px;
+    
+    color: white;
+    
+}
+.contacto{
+    
+    position:absolute;
+    left: 250px;
+    
+    color: white;
+    
+}
